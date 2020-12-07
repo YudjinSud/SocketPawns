@@ -1,0 +1,2 @@
+e2 e4,white
+f2 f4,white
